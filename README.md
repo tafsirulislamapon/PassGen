@@ -49,7 +49,7 @@ src/
 ```
 
 ## 🔐 Live Demo
-(https://vercel.com/tafsirs-projects-8744e531/strong-password)
+(https://strong-password-three.vercel.app/)
 
 ##  Author
 **Md. Tafsirul Islam**  
