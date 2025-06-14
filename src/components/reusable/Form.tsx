@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
-import {ALC1,ALC2, DC, SC} from "@/Data/char.jsx"
+import {ALC1,ALC2, DC, SC} from "@/Data/char.ts"
 
 const Form = () => {
   const [uppercase, setUppercase] = useState(false);
