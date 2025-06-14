@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+#This project is currently hosted on " https://strong-password-three.vercel.app/ " vercel
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
