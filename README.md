@@ -42,15 +42,16 @@ This project uses CSS variables in `index.css` to manage colors for both **light
 src/
 ├── components/         # Reusable UI components
 ├── Data/               # Character sets for password generation
+├── lib
 ├── App.tsx             # Main component
 ├── main.tsx            # Entry point
 ├── index.css           # Global styles and theming
 ```
 
 ## 🔐 Live Demo
-Coming soon...
+(https://vercel.com/tafsirs-projects-8744e531/strong-password)
 
-## 🧠 Author
+##  Author
 **Md. Tafsirul Islam**  
 Frontend Developer @ NexCodeix  
 📧 [tafsirulislam@nexcodeix.com](mailto:tafsirulislam@nexcodeix.com)
