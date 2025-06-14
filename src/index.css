@@ -132,10 +132,12 @@ button:focus-visible {
   .bg-secondary { background-color: var(--secondary); }
   .bg-muted { background-color: var(--muted); }
   .bg-accent { background-color: var(--accent); }
+  .bg-sidebar { background-color: var(--sidebar); }
 
   .text-primary { color: var(--primary); }
   .text-muted-foreground { color: var(--muted-foreground); }
   .text-accent-foreground { color: var(--accent-foreground); }
+  .text-sidebar-foreground { color: var(--sidebar-foreground); }
 
   .border-primary { border-color: var(--primary); }
   .border-muted { border-color: var(--muted); }
